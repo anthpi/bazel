@@ -136,6 +136,18 @@ minutes to roughly 1 minute, this was an impressive achievement and we are
 currently working on bringing Bazel to more projects.
 ([Experimenting with Google Cloud Build and Bazel](https://www.engelvoelkers.com/en/tech/engineering/software-engineering/experimenting-with-google-cloud-build-and-bazel/)){: .external}
 
+### [Ericsson](https://www.ericsson.com){: .external}
+
+<img src="/community/images/ericsson-logo.svg" alt="Ericsson Logo" width="150" align="right">
+
+Ericsson, a global leader in telecommunications and technology, leverages
+Bazel to optimize and streamline our software development processes,
+drastically reducing build times and improving CI/CD pipeline efficiency.
+By utilizing Bazel's robust build system and remote execution features,
+we ensure consistent, high-quality software solutions, enabling effective
+collaboration among distributed teams and making the digital world of
+tomorrow a reality.
+
 ### [Etsy](https://www.etsy.com/){: .external}
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Etsy_logo_lg_rgb.png" width="150" align="right">
 
